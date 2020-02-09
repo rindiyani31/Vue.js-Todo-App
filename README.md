@@ -1,10 +1,10 @@
 Copy your repo's URL. Ex: https://github.com/YourName/YourOldRepo (hint: it's the URL when you look at your repo's main page on github.
 Click the + icon in the top right corner.
-<img src="https://i.stack.imgur.com/9zJgo.png" width="400">
+<p><img src="https://i.stack.imgur.com/9zJgo.png" width="400"></p>
 
 Select "Import repository".
 Where it asks for the "Old URL", paste the URL you copied at step #1
-<img src="https://i.stack.imgur.com/vgWd3.png" width="400">
+<p><img src="https://i.stack.imgur.com/vgWd3.png" width="400"></p>
 
 Enter the name of your new repo and click Begin Import.
 That's it! You now have a copy of the full repo, with all commit history and branches!
