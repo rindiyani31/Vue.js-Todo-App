@@ -1,12 +1,12 @@
-Copy your repo's URL. Ex: https://github.com/YourName/YourOldRepo (hint: it's the URL when you look at your repo's main page on github.
-Click the + icon in the top right corner.
+1. Copy your repo's URL. Ex: https://github.com/YourName/YourOldRepo (hint: it's the URL when you look at your repo's main page on github.
+2. Click the + icon in the top right corner.
 <p><img src="https://i.stack.imgur.com/9zJgo.png" width="400"></p>
 
-Select "Import repository".
+3. Select "Import repository".
 Where it asks for the "Old URL", paste the URL you copied at step #1
 <p><img src="https://i.stack.imgur.com/vgWd3.png" width="400"></p>
 
-Enter the name of your new repo and click Begin Import.
+4. Enter the name of your new repo and click Begin Import.
 That's it! You now have a copy of the full repo, with all commit history and branches!
 Limitations: It's not actually a real fork. It's a copy of the repo. It won't allow to do pull requests back and forth.
 
